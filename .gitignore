@@ -1,0 +1,4 @@
+echo "infraCreation/terraform.tfvars" >> .gitignore
+echo ".terraform/" >> .gitignore
+echo "*.tfstate" >> .gitignore
+echo "*.tfstate.backup" >> .gitignore
