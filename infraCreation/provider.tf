@@ -1,5 +1,7 @@
 # AWS CLI Credentials
 provider "aws" {
+  access_key     = ""
+  secret_access_key     = ""
   region     = "us-east-1"
 }
 
