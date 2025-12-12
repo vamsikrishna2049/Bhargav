@@ -1,0 +1,8 @@
+ami_id           = "ami-0ecb62995f68bb549"
+az_a             = "us-east-1a"
+instance_type    = "t2.micro"
+prefix           = "Test"
+pub_sn_cidr1     = "10.0.1.0/24"
+pvt_sn_cidr1     = "10.0.10.0/24"
+vpc_cidr_block   = "10.0.0.0/16"
+pub_ec2_instance_count = "1"
